@@ -1,14 +1,11 @@
- 
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<layoutype>thumbnail</layoutype>
- 
 <channels>
- 
- 
+
 <channel>
-<name>[COLOR yellow][B]South Park[/B][/COLOR]</name>
-<thumbnail>https://bancodeseries.com.br/images/posters/4193.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/Q4dzjLK6</externallink>
-<fanart>https://geekquest.org/wp-content/uploads/2019/09/sp.jpg</fanart>
-<info></info>
+<name>[B][COLOR white]FILMES DE TERROR[/COLOR][/B]</name>
+<thumbnail>https://png.pngtree.com/png-clipart/20211026/original/pngtree-popcorn-bucket-png-image_628166.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/rodrigoludvigdasilva111/CINETOR/main/MENU%20FILMES%20TERROR</externallink>
+<fanart>https://wodz.com.br/wp-content/uploads/2023/11/wp-header-logo-1764.jpg</fanart>
+<info>TERROR</info>
 </channel>
+
+</channels>
