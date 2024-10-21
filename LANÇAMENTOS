@@ -1,11 +1,14 @@
+ 
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
 <channels>
-
+ 
+ 
 <channel>
-<name>[B][COLOR white]FILMES DE TERROR[/COLOR][/B]</name>
-<thumbnail>https://w7.pngwing.com/pngs/432/806/png-transparent-popcorn-on-red-and-white-striped-bucket-popcorn-maker-microwave-popcorn-popcorn-food-cooking-seasoning-thumbnail.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/rodrigoludvigdasilva111/KODIBRAZUCA/refs/heads/master/categoria%20terror%20torcine</externallink>
-<fanart>https://wodz.com.br/wp-content/uploads/2023/11/wp-header-logo-1764.jpg</fanart>
-<info>DESCRIÇÃO DA CATEGORIA</info>
+<name>[COLOR yellow][B]South Park[/B][/COLOR]</name>
+<thumbnail>https://bancodeseries.com.br/images/posters/4193.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Q4dzjLK6</externallink>
+<fanart>https://geekquest.org/wp-content/uploads/2019/09/sp.jpg</fanart>
+<info></info>
 </channel>
-
-</channels>
