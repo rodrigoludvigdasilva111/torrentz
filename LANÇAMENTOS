@@ -1,11 +1,14 @@
+ 
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
 <channels>
-
+ 
+ 
 <channel>
-<name>[B][COLOR white]FILMES DE TERROR[/COLOR][/B]</name>
-<thumbnail>https://png.pngtree.com/png-clipart/20211026/original/pngtree-popcorn-bucket-png-image_628166.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/rodrigoludvigdasilva111/CINETOR/main/MENU%20FILMES%20TERROR</externallink>
-<fanart>https://wodz.com.br/wp-content/uploads/2023/11/wp-header-logo-1764.jpg</fanart>
-<info>TERROR</info>
+<name>[COLOR yellow][B]LANCAMENTOS[/B][/COLOR]</name>
+<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
+<externallink>https://pastebin.com/raw/kNy17ta9</externallink>
+<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
+<info></info>
 </channel>
-
-</channels>
